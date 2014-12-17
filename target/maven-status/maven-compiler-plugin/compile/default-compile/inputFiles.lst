@@ -1,0 +1,8 @@
+/home/ribadas/NetBeansProjects/ejemploREST/src/main/java/es/uvigo/dagss/ejemplorest/entidades/Libro.java
+/home/ribadas/NetBeansProjects/ejemploREST/src/main/java/es/uvigo/dagss/ejemplorest/configuracion/SingletonCreadorEntidadesIniciales.java
+/home/ribadas/NetBeansProjects/ejemploREST/src/main/java/es/uvigo/dagss/ejemplorest/daos/AutorDAO.java
+/home/ribadas/NetBeansProjects/ejemploREST/src/main/java/es/uvigo/dagss/ejemplorest/entidades/Autor.java
+/home/ribadas/NetBeansProjects/ejemploREST/src/main/java/es/uvigo/dagss/ejemplorest/rest/AutorEndpoint.java
+/home/ribadas/NetBeansProjects/ejemploREST/src/main/java/es/uvigo/dagss/ejemplorest/daos/LibroDAO.java
+/home/ribadas/NetBeansProjects/ejemploREST/src/main/java/es/uvigo/dagss/ejemplorest/rest/LibroEndpoint.java
+/home/ribadas/NetBeansProjects/ejemploREST/src/main/java/es/uvigo/dagss/ejemplorest/configuracion/RestConfigHolder.java

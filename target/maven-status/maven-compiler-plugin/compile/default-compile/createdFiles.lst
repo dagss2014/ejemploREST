@@ -1,0 +1,13 @@
+es/uvigo/dagss/ejemplorest/configuracion/SingletonCreadorEntidadesIniciales.class
+es/uvigo/dagss/ejemplorest/daos/LibroDAO.class
+es/uvigo/dagss/ejemplorest/entidades/Libro_.class
+es/uvigo/dagss/ejemplorest/rest/AutorEndpoint.class
+es/uvigo/dagss/ejemplorest/configuracion/RestConfigHolder.class
+es/uvigo/dagss/ejemplorest/daos/AutorDAO.class
+es/uvigo/dagss/ejemplorest/rest/AutorEndpoint$1.class
+es/uvigo/dagss/ejemplorest/entidades/Autor_.class
+es/uvigo/dagss/ejemplorest/rest/LibroEndpoint.class
+es/uvigo/dagss/ejemplorest/entidades/Autor.class
+es/uvigo/dagss/ejemplorest/rest/LibroEndpoint$1.class
+es/uvigo/dagss/ejemplorest/entidades/Libro.class
+es/uvigo/dagss/ejemplorest/rest/AutorEndpoint$2.class
